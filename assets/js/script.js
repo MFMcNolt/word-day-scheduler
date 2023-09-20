@@ -8,7 +8,7 @@
 
 // Display todays day and time
 
-var todayDate = moment().format('dddd, MMM Do YYYY');
+var todayDate = dayjs().format('dddd, MMMM D YYYY');
 $("#currentDay").html(todayDate);
 
 
