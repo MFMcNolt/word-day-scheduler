@@ -1,3 +1,12 @@
+//psuedo code
+// display todays date
+// pass present future time
+// save button capture 
+// input capture
+// local storage
+
+
+
 // display todays day and time
 
 var todayDate = dayjs().format('dddd, MMMM D YYYY');
