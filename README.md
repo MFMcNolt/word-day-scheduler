@@ -23,6 +23,11 @@ To add an event for a specific hour, locate the time slot within the calendar gr
 Click on the description area for that time slot.
 Enter the details of your event or task in the text input field.
 Click the "Save" button (represented by a floppy disk icon) to save the event.
+Here is a screenshot of a filled in calendar from a completed day:
+
+    ```md
+    ![alt text](assets/Images/Screenshot%202023-09-21%20at%208.11.32%20pm.png)
+    ```
 
 You are able to edit these events:
 If you need to edit or update an event, simply click on the text input field for the event you want to modify.
@@ -32,6 +37,12 @@ The calendar uses color-coding to indicate the status of each time slot:
 Past Events: Time slots in the past are grayed out.
 Current Event: The current time slot is highlighted in red.
 Future Events: Time slots in the future are displayed in green.
+This screenshot was taken at 8pm at night on 21st September, so all the timeslots are in the past, represented by the grey colour:
+
+
+    ```md
+    ![alt text](assets/Images/Screenshot%202023-09-21%20at%208.10.37%20pm.png)
+    ```
 
 Your events are stored on the page:
 Your added events are automatically saved locally within your browser's storage. This means that even if you refresh the page or close the browser, your schedule will be preserved for the day.
@@ -39,40 +50,4 @@ Your added events are automatically saved locally within your browser's storage.
 You can still remove events:
 To remove an event, simply delete the text from the text input field and click the "Save" button. This action will clear the event for that time slot.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
