@@ -52,5 +52,5 @@ To remove an event, simply delete the text from the text input field and click t
 
 
 
-[def]: assets/Images/Screenshot1.png
-[def2]: assets/Images/Screenshot.png
+[def]: assets/Images/Screenshot.png
+[def2]: assets/Images/Screenshot1.png
