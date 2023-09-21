@@ -26,7 +26,7 @@ Click the "Save" button (represented by a floppy disk icon) to save the event.
 Here is a screenshot of a filled in calendar from a completed day:
 
     ```md
-    ![alt text](assets/Images/Screenshot%202023-09-21%20at%208.11.32%20pm.png)
+    ![alt text](assets/Images/Screenshot1.png)
     ```
 
 You are able to edit these events:
@@ -40,9 +40,9 @@ Future Events: Time slots in the future are displayed in green.
 This screenshot was taken at 8pm at night on 21st September, so all the timeslots are in the past, represented by the grey colour:
 
 
-    ```md
-    ![alt text](assets/Images/Screenshot%202023-09-21%20at%208.10.37%20pm.png)
-    ```
+
+    ![alt text](assets/Images/Screenshot.png)
+
 
 Your events are stored on the page:
 Your added events are automatically saved locally within your browser's storage. This means that even if you refresh the page or close the browser, your schedule will be preserved for the day.
