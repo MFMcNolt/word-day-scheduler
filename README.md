@@ -10,13 +10,34 @@ During the development of this project, I learned the importance of user-centere
 
 ## Installation
 
-The beauty of this calender is that it 
+Since this calendar is a web-based calendar there is nothing more then a browser that needs to be available to utilize this properly. 
 
 ## Usage
+Please see below the best usage for this work day scheduler:
 
-Provide instructions and examples for use. Include screenshots as needed.
+You are able to view today's time and date:
+When you open the calendar, it will automatically display today's date and time at the top of the page.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+You are able to add in events:
+To add an event for a specific hour, locate the time slot within the calendar grid corresponding to the desired time.
+Click on the description area for that time slot.
+Enter the details of your event or task in the text input field.
+Click the "Save" button (represented by a floppy disk icon) to save the event.
+
+You are able to edit these events:
+If you need to edit or update an event, simply click on the text input field for the event you want to modify.
+Make your changes and click the "Save" button to update the event.
+
+The calendar uses color-coding to indicate the status of each time slot:
+Past Events: Time slots in the past are grayed out.
+Current Event: The current time slot is highlighted in red.
+Future Events: Time slots in the future are displayed in green.
+
+Your events are stored on the page:
+Your added events are automatically saved locally within your browser's storage. This means that even if you refresh the page or close the browser, your schedule will be preserved for the day.
+
+You can still remove events:
+To remove an event, simply delete the text from the text input field and click the "Save" button. This action will clear the event for that time slot.
 
     ```md
     ![alt text](assets/images/screenshot.png)
