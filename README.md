@@ -2,15 +2,15 @@
 
 ## Description
 
-A work day scheduler was created as 
+My motivation for creating this project was to provide users with an intuitive and interactive tool for managing their daily schedules efficiently. I recognized the need for a user-friendly web-based calendar application that focuses on the typical working hours (9am–5pm) and allows users to save and organize events seamlessly.
 
-## Table of Contents (Optional)
+I built this project to address the challenges many individuals face in organizing their workday schedules. Our goal was to create a simplified, browser-based calendar that anyone can use to manage their daily tasks effectively.
 
-
+During the development of this project, I learned the importance of user-centered design and user experience (UX). I gained insights into creating responsive and visually appealing web applications using HTML, CSS, and jQuery. Additionally, I became proficient in handling date and time functionalities, whether using external libraries like Day.js and Bootstrap. This project taught us how to balance functionality with simplicity to create a practical and user-friendly web application.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The beauty of this calender is that it 
 
 ## Usage
 
