@@ -25,9 +25,8 @@ Enter the details of your event or task in the text input field.
 Click the "Save" button (represented by a floppy disk icon) to save the event.
 Here is a screenshot of a filled in calendar from a completed day:
 
-    ```md
-    ![alt text](assets/Images/Screenshot1.png)
-    ```
+
+![alt text][def]
 
 You are able to edit these events:
 If you need to edit or update an event, simply click on the text input field for the event you want to modify.
@@ -41,7 +40,7 @@ This screenshot was taken at 8pm at night on 21st September, so all the timeslot
 
 
 
-    ![alt text](assets/Images/Screenshot.png)
+![alt text][def2]
 
 
 Your events are stored on the page:
@@ -51,3 +50,7 @@ You can still remove events:
 To remove an event, simply delete the text from the text input field and click the "Save" button. This action will clear the event for that time slot.
 
 
+
+
+[def]: assets/Images/Screenshot1.png
+[def2]: assets/Images/Screenshot.png
